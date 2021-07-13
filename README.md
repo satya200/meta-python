@@ -10,4 +10,5 @@ Chapter 4
 	Ex: x = y, X * Y, (X, Y), f() etc
 
 3> Blocks does not define scope in python
-4> Python create new identification number for each objecy 
+4> Python create new identification number for each object
+5> else close is use after loop is normal exit with out any break 

@@ -9,3 +9,9 @@ while(n < 3):
 
 for i in words:
     print(i)
+
+secret = 'satya'
+pw = ''
+
+while pw != secret:
+    pw = input('Input is not matching?')
