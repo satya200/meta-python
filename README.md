@@ -13,4 +13,8 @@ Chapter 4
 4> Python create new identification number for each object
 5> else close is use after loop is normal exit with out any break
 
-6> 
+6> In side class function defination is called methods
+7> self is reference to object
+8> Instance of class is called object
+9> In python we do not have private concept so when we write the code make class memebr start with "_" it means we should not change out side class
+10> 

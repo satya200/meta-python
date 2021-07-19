@@ -11,10 +11,10 @@ def main():
     # Insert at begining
     game.insert(0,'Sahu')
     # We can remove
-    game.remove('football')
+    #game.remove('football')
     # remove using pop
     game.pop()
-    del game[0]
+    #del game[0]
     print_list(game)
 
 def print_list(game):
