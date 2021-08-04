@@ -1,0 +1,127 @@
+graphql JSON
+
+Threads
+
+DASK
+
+Airflow -> ssh operator
+
+virtual env, poetry
+
+
+
+Ø  Data Structures or Collections
+
+Ø  Logging
+
+Ø  Exception handling
+
+Ø  Garbage Collections
+
+Ø  Regular Expressions
+
+Ø  Handling Files
+
+Ø  XML, JSON Parsing
+
+Ø  Concurrency
+
+Ø  Multi threading & Multi processing , Parallelism
+
+Ø  Communication with database - CRUD Operations
+
+Ø  Handling the REST API - Django & Flask
+
+Ø  Airflow in Python
+
+Ø  AWS Boto in Python
+
+Ø  Pandas and Numpy
+
+Ø  Automated Unit Testing with Python (Test Frameworks)
+
+Ø  PySpark Introduction
+
+Ø  Memory Management for compute intensive heavy loads with Python
+
+----------------------------------------------------------------------------------------------
+
+1. location where python.exe is present (root path)
+
+C:\Users\Kiran\AppData\Local\Programs\Python\Python39
+
+Python (scripting tool)
+-----------------------
+1. Interpreted technology
+2. loosely typed data
+   implicitly
+   ----------
+   i = 20    
+	
+
+Explicitly
+----------
+int i;
+i = 10;
+
+
+a. Numbers
+   integers => 1, 2, 10, 50
+   real => 2.5, 9.7,  89.5
+   complex => 2+4j
+   long
+
+b. strings => stored like arrays
+   strings are immutable 
+   
+c. boolean
+
+1. Lists
+   same as arrays
+   collection of hetrogenous data
+   memory allocation is continous
+
+   Deep copy
+   l2 = l1.copy()
+   l2 => seperate memory
+   l1 => seperate memory
+
+   will not work with two dimensional array
+ 
+   for two dimensional arrays we make use of copy.deepcopy() method which is imported from copy module
+
+ 
+   Shallow copy
+   l2 = l1
+   both are sharing the same memory
+
+
+
+2. Dictionaries - Associative arrays
+
+d = k1: v1, k2: v2, k3: v3.....
+all keys in a dictionary is unique
+
+3. Tuple - immutable list
+
+tuples are immutable
+
+
+4. sets
+
+range(1, 10) = (1...9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

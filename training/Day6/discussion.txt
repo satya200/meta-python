@@ -1,0 +1,62 @@
+Monkey Patching
+---------------
+
+Modules  => libraries in python
+
+any python file can be considered as a module (.py)
+
+import file_name
+----------------
+module will get converted to byte code(.pyc) and then imported into the file
+
+5 levels of logging
+--------------------
+Debug:		level = 10
+Info:		level = 20
+warning:	level = 30
+Error:		level = 40
+Critical:	level = 50
+
+
+FLASK
+------
+light weight web framework
+
+jinja, werkzueg...
+
+Successfully installed 
+Jinja2-3.0.1 
+MarkupSafe-2.0.1 
+Werkzeug-2.0.1 
+click-8.0.1 
+colorama-0.4.4 
+flask-2.0.1 
+itsdangerous-2.0.1
+
+port => 5000
+
+
+call python scripts in flask
+
+validate the data
+
+cookies in flask
+----------------
+create a cookie
+delete a cookie
+
+
+Threads
+Pyspark
+
+
+
+
+
+
+
+
+
+
+
+

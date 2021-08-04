@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Web Page</title>
+</head>
+<body>
+    <h2>Python Training</h2>
+    <p> <h3>Welcome {{uname}} to python programming.</h3></p>
+    <p><h3>{{content}}</h3></p>
+    {% for x in range(1, 11) %}
+        {% if x % 2 == 1 %}
+            <p><h4>{{x}}</h4></p>
+        {% endif %}
+    {% endfor %}
+</body>
+</html>

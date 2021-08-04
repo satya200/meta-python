@@ -1,0 +1,179 @@
+ Data Structures or Collections
+
+Ø  Logging
+
+Ø  Exception handling
+
+Ø  Garbage Collections
+
+Ø  Regular Expressions
+
+Ø  Handling Files
+
+Ø  XML, JSON Parsing
+
+Ø  Concurrency
+
+Ø  Multi threading & Multi processing , Parallelism
+
+Ø  Communication with database - CRUD Operations
+
+Ø  Handling the REST API - Django & Flask
+
+Ø  Airflow in Python
+
+Ø  AWS Boto in Python
+
+Ø  Pandas and Numpy
+
+Ø  Automated Unit Testing with Python (Test Frameworks)
+
+Ø  PySpark Introduction
+
+Ø  Memory Management for compute intensive heavy loads with Python
+
+Sets
+----
+s = {1, 2, 3, 4, 5}
+
+1. unordered collection
+2. unindexed
+3. unique
+
+------------------------
+
+a. Decorator
+
+b. Exceptions
+
+c. Regular Expressions
+
+d. file handling
+
+---------------------------------
+
+def squares(x):
+   return x ** 2
+
+fun = lambda x: x ** 2
+
+res = fun(4)
+
+print(res)
+
+
+Banner
+------
+
+banner("Greeting Mr. Rahul")
+
+--------------------------------
+
+oranges from nagpur
+Hello
+India is great
+Apples from ooty
+Mera Bharath Mahan
+
+------------------------
+India is great
+Hello
+Apples from ooty
+Hi
+oranges from nagpur
+Mera Bharath Mahan
+
+-------------------------
+Hello.....
+Apples from ooty....
+Hi.....
+-------------------------
+India is great
+oranges from nagpur
+Mera Bharath Mahan
+
+Decorators
+-------------
+
+@classmethod
+def fun()
+
+
+@abstractmethod
+def fun()
+
+
+Regular Expressions
+-------------------
+
+Ticket raised for Network issues with Ticket No 234234 on 22/07/2021
+
+regex is the same in all technologies => perl, python, java, dotnet....
+
+Basic Regular Expressions
+-------------------------
+^		-	begining of the string
+$		-	end of the string
+.		-	single character
+*		-	zero or more occurances
+?		-	zero or one occurance
++		-	one or more occurances
+{n}		- 	exactly n times
+{n,}		- 	min n times and max infinite times
+{n, m}		-	min n times and max m times
+[]		-	character class
+()		-	grouping
+|		-	Alternation
+\		-	supressing the regular expression
+
+module re
+---------
+a. match
+b. search
+c. findall
+d. finditer
+c. compile
+
+
+license number -> LCNO-KAR-05-2015-003
+
+LCNO - LCNO-
+
+KAR - KAR,TND,MAH,APN,TEL
+
+05 - 01-73
+
+2015 - 2000+
+
+003 - 001 - 999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

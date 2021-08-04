@@ -1,0 +1,9 @@
+
+Benefits of class Methods
+-------------------------
+
+
+
+TypeError: 'Employee' object does not support item assignment
+
+TypeError: 'str' object does not support item assignment

@@ -1,0 +1,51 @@
+http://pythontutor.com/visualize.html#mode=display
+1> Interpreted Technology
+2> Loosly typed data
+In python data type is decided compile time. And all data type is object and in python all are object
+
+Implicit: i = 20
+
+Explicit: int i; i  = 20
+strings are store like arry in python and string are imutable means we can not change
+
+print("-" * 40) ==> Print line
+
+DATA STRUCTURES:
+----------------
+1> List:
+--------
+a> same as array. Collectiom of heteroginious data. memory allocation is continues.
+b> range operater is used to generate number ramge(1, 10) = (1...9) 
+Ex: create list  l = list(range(1, 10))
+
+Deep copy: l2 = l1. l2 should have separete memory and l1 should have separate memory we can write l2 = l1.copy
+In case of deep copy for 2D array we are having issue. So we have to go for l2 = l1.copy.deepcopy() we have to import copy
+
+Shallow copy: l2 = l1 both l1 and l2 share same memory changes in one array it ll affect another array
+
+sort will sort orginal list
+sorted ll create copy of the sorted list
+
+2> Dict
+--------
+a> It is called as associative arrays.
+d = k1: v1, k2: v2, k3: v3
+3> Tuples
+---------==
+a> a = 1, 2, 3  ==> This is tuple
+b = (2, 3, 4)
+c = tuple(1, 2, 3)
+All tuples are imutable similar as string
+
+comprehension: It is iterating a list using lambda syntaxes
+-------------------
+a> lambda is a function without name means anonomes function. Best use in map, filter
+Ex:
+----
+def add(a, b)
+	reurn a +b
+a = add
+res = a(100, 200)
+l = lambda x, y: x + y
+res = l(10, 20)
+4> set

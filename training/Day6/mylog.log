@@ -1,0 +1,16 @@
+2021-07-28 10:33:49,508 : DEBUG : division by zero : logs4.py : 12
+2021-07-28 10:35:25,440 : INFO : inverse of 5 is :0.2 : logs4.py : 19
+2021-07-28 10:39:03,007 : root : INFO : inverse of 5 is :0.2 : logs4.py : 19
+2021-07-28 10:40:54,245 : root : INFO : inverse of 5 is :0.2 : logs4.py : 20
+2021-07-28 10:48:39,640 : root : INFO : inverse of 5 is :0.2 : logs4.py : 20
+2021-07-28 10:49:31,532 : root : INFO : inverse of 5 is :0.2 : logs4.py : 20
+2021-07-28 10:49:33,601 : pip._internal.vcs.versioncontrol : DEBUG : Registered VCS backend: bzr : versioncontrol.py : 216
+2021-07-28 10:49:33,601 : pip._internal.vcs.versioncontrol : DEBUG : Registered VCS backend: git : versioncontrol.py : 216
+2021-07-28 10:49:33,602 : pip._internal.vcs.versioncontrol : DEBUG : Registered VCS backend: hg : versioncontrol.py : 216
+2021-07-28 10:49:33,603 : pip._internal.vcs.versioncontrol : DEBUG : Registered VCS backend: svn : versioncontrol.py : 216
+2021-07-28 10:52:12,736 : root : INFO : inverse of 5 is :0.2 : logs4.py : 20
+2021-07-28 10:52:21,919 : pip._internal.vcs.versioncontrol : DEBUG : Registered VCS backend: bzr : versioncontrol.py : 216
+2021-07-28 10:52:21,920 : pip._internal.vcs.versioncontrol : DEBUG : Registered VCS backend: git : versioncontrol.py : 216
+2021-07-28 10:52:21,920 : pip._internal.vcs.versioncontrol : DEBUG : Registered VCS backend: hg : versioncontrol.py : 216
+2021-07-28 10:52:21,922 : pip._internal.vcs.versioncontrol : DEBUG : Registered VCS backend: svn : versioncontrol.py : 216
+2021-07-28 10:53:26,197 : root : INFO : inverse of 5 is :0.2 : logs4.py : 20

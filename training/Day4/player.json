@@ -1,0 +1,25 @@
+{
+    "players": [
+        {
+            "id": "P001",
+            "name": "Sachin Tendulkar",
+            "matches": 560,
+            "runs": 24800,
+            "age": 38
+        },
+        {
+            "id": "P002",
+            "name": "Rahul Dravid",
+            "matches": 385,
+            "runs": 21200,
+            "age": 36
+        },
+        {
+            "id": "P003",
+            "name": "Sourav Ganguly",
+            "matches": 327,
+            "runs": 19500,
+            "age": 37
+        }
+    ]
+}

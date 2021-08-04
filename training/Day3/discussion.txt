@@ -1,0 +1,124 @@
+
+Date
+----
+dd/mm/yyyy
+
+dd-mm-yyyy
+
+dd = 01-31
+
+mm = 01-12
+
+yyyy = valid year (1900+)
+
+----------------------------
+invalid dates
+-------------
+dd/mm-yyyy
+
+dd-mm/yyyy
+
+(?<=\/)(.*?)(?=\/)
+
+
+Exceptions
+----------
+
+try:
+
+except:
+
+else:
+
+finaly:
+
+
+File Handling
+-------------
+Data in a txt or flat file is stored in ascii format
+
+open function is to open a file
+
+open in read, write and append mode
+
+read - if the file exists, then open the file for reading
+       if the file does not exist then exception FileNotFoundError is raised
+       if the mode is not mentioned then the file is opened in read mode
+
+FL.read() - reads the entire contents of the file if the bytes are not mentioned
+FL.read(50) - reads 50 bytes from the file
+
+FL.readline() - will read one line 
+
+FL.readlines() - can read all the lines from the file
+
+write - if the file exists then it will delete all the file contents and will ready to write
+        if the file does not exist then will create the file
+
+append - if the file exists then it will append data to the file contents that already exists
+        if the file does not exist then will create the file 
+
+FL_pos = FL.seek(offset, whence)
+
+FL.seek(100, 0)	 => calculate 100 bytes from BOF
+
+FL.seek(50, 1) => calculate 50 bytes from the CP
+
+FL.seek(50, 2) = calculare 50 bytes from EOF
+
+offset = no of bytes
+Whence = 0 - BOF
+	 1 - CP
+	 2 - EOF
+
+
+FL_pos = FL.tell()
+
+
+
+
+if g not in gender:
+   gender[g] = 1
+else 
+   gender[g] += 1
+
+g = m, f, m, f
+
+geder = {'m': 1, 'f': 1}
+
+ds = mgr, pm, pl, tl 
+
+des = [mgr]
+
+
+EXCEL file Manipulation
+-----------------------
+xlrd ...
+
+using openpyxl library to manipulate Excel
+
+Workbook = Excel file
+
+Worksheet = Pages in excel file
+
+A5 = cell address
+
+c10 = cell address
+
+excel sheet = rows-> 1048576
+	      cols-> 16384
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

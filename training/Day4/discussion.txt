@@ -1,0 +1,111 @@
+Create Database using Sqlite3
+-----------------------------
+
+import sqlite3
+
+conn = sqlite3.connect("students.db")
+
+conn.commit()
+
+conn.close()
+
+
+Decorator -> functions
+----------------------
+
+from abc import ABC, abstractmethod
+
+class test(ABC):
+
+   @abstractmethod	# decorator
+   def fun():
+	pass
+
+
+OOPs
+----
+Object Oriented Programming
+
+code reusability
+----------------
+
+1. Inheritance
+2. polymorphism
+3. Abstraction
+4. Encapsulation
+
+ATM
+---
+
+SBI
+---
+class authenticate()
+
+  def acceptPin()
+
+  def matchPin()
+
+
+class readChip(authenticate)
+
+  def readChip()
+
+
+Unix and C
+-----------
+perl		- special variables
+python		- libraries, methods
+ruby
+lua
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
